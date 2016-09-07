@@ -11,7 +11,7 @@ Look up truth table-
 && //if a is true and b is false then it will be false. 
 when you have !a it is asking for the opposite of what a is.. so if a is true then !a is false. 
 
-comparison operators 
+comparison operators remember to not confuse them with equals 
     ==
     !=
     <
