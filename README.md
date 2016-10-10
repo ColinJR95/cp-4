@@ -187,7 +187,7 @@ case 5:
 //code
 break;
 
-CONDITIONAL OPERATOR  ?: //LOOK THIS UP
+CONDITIONAL OPERATOR  ?: / look in book 
 
 
   
